@@ -7,7 +7,7 @@
 
 # Optional parameters:
 # @raycast.icon 🤖
-# @raycast.packageName Developer Utils
+# @raycast.package Name Developer Utils
 
 # Documentation:
 # @raycast.description Open a new window on Brave

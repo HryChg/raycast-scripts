@@ -12,7 +12,7 @@
 # Documentation:
 # @raycast.description Activate Screen Saver
 # @raycast.author Harry Chuang
-# @raycast.authorURL https://github.com/HryChg
+# @raycast.author URL https://github.com/HryChg
 
 # Reduce Brightness to Minimum
 # 144 Brighter, 155 Dimmer
